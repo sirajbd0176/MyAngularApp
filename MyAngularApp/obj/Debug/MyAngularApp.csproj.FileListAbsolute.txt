@@ -27,6 +27,9 @@ c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\
 c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.WebPages.xml
 c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.WebPages.Deployment.xml
 c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.WebPages.Razor.xml
-c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.csprojResolveAssemblyReference.cache
 c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.dll
 c:\users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.pdb
+C:\Users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.Cors.dll
+C:\Users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.Http.Cors.dll
+C:\Users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\bin\System.Web.Http.Cors.xml
+C:\Users\mamony\documents\visual studio 2012\Projects\MyAngularApp\MyAngularApp\obj\Debug\MyAngularApp.csprojResolveAssemblyReference.cache

@@ -91,6 +91,7 @@ namespace MyAngularApp.Controllers
         {
             if (ModelState.IsValid)
             {
+                student.BirthDate = DateTime.Now;
                 db.Students.Add(student);
                 db.SaveChanges();
 

@@ -11,5 +11,10 @@ namespace MyAngularApp.Models
         public string Name { get; set; }
         public string Address { get; set; }
         public DateTime BirthDate { get; set; }
+        //public string Address { get; set; }
+        //public int Phone { get; set; }
+        //public string Email { get; set; }
+        //public int deptId { get; set; }
+        //public string seassion { get; set; }
     }
 }

@@ -12,6 +12,7 @@ namespace MyAngularApp
         public static void Register(HttpConfiguration config)
         {
             var cors = new EnableCorsAttribute("http://localhost:2480", "*", "*");
+            //var cors = new EnableCorsAttribute("*", "*", "*");
             config.EnableCors(cors);            
 
             config.Formatters.JsonFormatter.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;

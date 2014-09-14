@@ -19,7 +19,7 @@ namespace MyAngularApp.Controllers
         // GET api/Course
         public IEnumerable<Course> GetCourses()
         {
-            return db.Courses.AsEnumerable();
+            return db.Courses.Include("Department").AsEnumerable();
         }
 
         // GET api/Course/5

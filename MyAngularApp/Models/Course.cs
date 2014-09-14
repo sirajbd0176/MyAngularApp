@@ -11,9 +11,10 @@ namespace MyAngularApp.Models
 
         public int Id { get; set; }
         public string CourseName { get; set; }
-        public int DepID { get; set; }
-        [ForeignKey("DepID")]
-        public Department id { get; set; }
+        public int DepartmentId { get; set; }
+        //[ForeignKey("DepID")]
+        //public Department id { get; set; }
+        public Department Department { get; set; }
         
     }
 }
